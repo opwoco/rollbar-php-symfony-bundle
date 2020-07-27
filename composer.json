@@ -1,5 +1,5 @@
 {
-    "name": "rollbar/rollbar-php-symfony-bundle",
+    "name": "opwoco/rollbar-php-symfony-bundle",
     "description": "Bundle for Symfony that integrates Rollbar tracker",
     "type": "library",
     "license": "MIT",
@@ -28,7 +28,7 @@
     },
     "require": {
         "php": ">=7.1",
-        "rollbar/rollbar": "^2",
+        "opwoco/rollbar": "^2",
         "symfony/dependency-injection": "^5.0",
         "symfony/config": "^5.0",
         "symfony/http-kernel": "^5.0",
